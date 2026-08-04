@@ -1,4 +1,4 @@
-# hou-compiler-linux
+# uni-hou-compiler-linux
 
 ![Screenshot](doc/assets/img/header-2.png)
 
